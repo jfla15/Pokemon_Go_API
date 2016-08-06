@@ -73,11 +73,3 @@ i will publish a website soon where you can test this bot
 ![Alt text](etc/screen.png?raw=true "result screen")
 
 ![Alt text](etc/bot.png?raw=true "result screen")
-
-# Video of the Pokestop farmer beta v1.0:
-
-[![Alt text](http://img.youtube.com/vi/i1UmYyntz8A/0.jpg)](http://www.youtube.com/watch?v=i1UmYyntz8A "Pokemon_Go_API Pokestop farmer")
-
-# Video of the Pokemon catcher v1.0:
-
-[![Alt text](http://img.youtube.com/vi/rtGyUPhrGY0/0.jpg)](http://www.youtube.com/watch?v=rtGyUPhrGY0 "Pokemon_Go_API Pokestop farmer")
